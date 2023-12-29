@@ -29,8 +29,8 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/awesooomeME/results_summary)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
-- Frontendmentor Solution URL: [Frontendmentor Solution URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL here](https://results-summary-kohl.vercel.app/)
+- Frontendmentor Solution URL: [Frontendmentor Solution URL here](https://www.frontendmentor.io/solutions/results-summary-with-nextjs-kTcEr1OaD-)
 
 ## My process
 
